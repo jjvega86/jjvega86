@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Vega Jr. (JJ)</h1>
-<h3 align="center">A people focused web developer based in Chattanooga, TN with a passion for aligning teams and building relationships.</h3>
+<h3 align="center">A people-focused web developer based in Chattanooga, TN with a passion for aligning teams and building relationships.</h3>
 
 - 🔭 I’m currently working on rebuilding my wife's website for her side business endeavors by converting it from a Squarespace site to a Next.js site. [Current Squarespace Site](https://www.meglacyvega.com/)
 
