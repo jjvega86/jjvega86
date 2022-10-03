@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on rebuilding my wife's website for her side business endeavors by converting it from a Squarespace site to a Next.js site. [Current Squarespace Site](https://www.meglacyvega.com/)
 
-- 🌱 I’m currently learning **Next.js and Supabase**
+- 🌱 I’m currently learning **Next.js and Supabase.**
 
 - 💬 Ask me about **JavaScript, React, and the futility of staying afloat in a sea of JavaScript frameworks.**
 
