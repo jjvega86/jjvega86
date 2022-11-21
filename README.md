@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on building a daily coding habit and getting my reps 💪 in with the craft of web development by completing Frontend Mentor challenges: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/jjvega86)
 
-- 🌱 I’m currently learning **SASS and Tailwind CSS.**
+- 🌱 I’m currently learning **Astro and Tailwind CSS.**
 
-- 💬 Ask me about **JavaScript, React, and the futility of staying afloat in a sea of JavaScript frameworks.**
+- 💬 Ask me about **Staying healthy as a full time computer worker and how to fall in love with CSS**
 
 - 📫 How to reach me: **jj.vega86@gmail.com**
 
