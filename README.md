@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Joseph Vega Jr. (JJ)</h1>
 <h3 align="center">A people-focused web developer based in Chattanooga, TN with a passion for aligning teams and building relationships.</h3>
 
-- 🔭 I’m currently working on building a daily coding habit and getting my reps 💪 in with the craft of web development by completing Frontend Mentor challenges: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/jjvega86)
+- 🔭 I’m currently working on building a daily coding habit and getting my reps 💪 in with the craft of React UI development by completing Frontend Mentor challenges: [Frontend Mentor Profile](https://www.frontendmentor.io/profile/jjvega86)
 
-- 🌱 I’m currently learning **Astro and Tailwind CSS.**
+- 🌱 I’m currently learning **Remix and Tailwind CSS.**
 
 - 💬 Ask me about **Staying healthy as a full time computer worker and how to fall in love with CSS**
 
